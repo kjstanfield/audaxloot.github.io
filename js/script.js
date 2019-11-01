@@ -18,7 +18,7 @@ $.ajax({
       let current = $(this).find('dkp').text()
 
       content = content + `
-      <tr>
+      <tr class="entry">
         <td class="player">${player}</td>
         <td class="pclass"><span class="class_text">${pclass}</span><img src="https://wow.zamimg.com/images/wow/icons/large/classicon_${pclass}.jpg"></td>
         <td class="current">${current}</td>
