@@ -1,0 +1,56 @@
+<loothistory>
+    <lootentry>
+        <player>Rosey</player>
+        <itemname>Head of Onyxia</itemname>
+        <itemnumber>18422</itemnumber>
+        <zone>Onyxia's Lair</zone>
+        <boss>Onyxia</boss>
+        <timestamp>1572580598</timestamp>
+        <cost>70</cost>
+    </lootentry>
+    <lootentry>
+        <player>Mawta</player>
+        <itemname>Bloodfang Hood</itemname>
+        <itemnumber>16908</itemnumber>
+        <zone>Onyxia's Lair</zone>
+        <boss>Onyxia</boss>
+        <timestamp>1572580441</timestamp>
+        <cost>100</cost>
+    </lootentry>
+    <lootentry>
+        <player>Drblazed</player>
+        <itemname>Sapphiron Drape</itemname>
+        <itemnumber>17078</itemnumber>
+        <zone>Onyxia's Lair</zone>
+        <boss>Onyxia</boss>
+        <timestamp>1572580356</timestamp>
+        <cost>70</cost>
+    </lootentry>
+    <lootentry>
+        <player>Kelustern</player>
+        <itemname>Cenarion Helm</itemname>
+        <itemnumber>16834</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Garr</boss>
+        <timestamp>1571799627</timestamp>
+        <cost>55</cost>
+    </lootentry>
+    <lootentry>
+        <player>Thewaterboi</player>
+        <itemname>Arcanist Belt</itemname>
+        <itemnumber>16802</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Gehennas</boss>
+        <timestamp>1571798305</timestamp>
+        <cost>40</cost>
+    </lootentry>
+    <lootentry>
+        <player>Thewaterboi</player>
+        <itemname>Sorcerous Dagger</itemname>
+        <itemnumber>18878</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Gehennas</boss>
+        <timestamp>1571797635</timestamp>
+        <cost>60</cost>
+    </lootentry>
+</loothistory>
