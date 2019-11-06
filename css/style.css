@@ -1,42 +1,13 @@
 body {
   background-image: url("../imgs/rag_background.jpg");
   background-size: cover;
-  background-repeat: no-repeat;
-  background-attachment: fixed;
   background-position: center;
   font-family: 'Roboto Condensed', sans-serif;
 }
 
-#dkp-loot {
-  display: none;
-}
-
-#nav-history {
-  display: none;
-}
-
-/* MENU */
-
-#menu {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-
-ul {
-  padding: 0;
-  list-style: none;
-  display: flex;
-  flex-wrap: wrap;
-}
-
-#menu li {
-  background-color: red;
-  text-align: center;
-  width: 100px;
-  cursor: pointer;
-  padding: 10px;
-  margin: 5px;
+/* HIDING UNTIL BUILT */
+#menu{
+  display: none
 }
 
 #title{
@@ -46,8 +17,6 @@ ul {
   color: red;
 }
 
-/* Content */
-
 #container{
   width: 80%;
   margin: 0 auto;
@@ -55,9 +24,9 @@ ul {
 
 #content{
   width: 100%;
-  margin: 0;
+  margin: 0 auto 60px auto;
   background-color: rgba(0, 0, 0, 0.65);
-  padding: 10px 0;
+  padding: 20px 0;
   border-style: solid;
   border-width: 2px;
 }
@@ -66,19 +35,15 @@ table {
   margin: 0 auto;
 }
 
-.row {
-  color: white;
-}
-
 .header{
+  color:white;
   font-size: 1.2rem;
   padding-bottom: 15px;
 }
 
-/*  DKP TABLE */
-
 .player {
-  width: 150px;
+  width: 200px;
+  color: white;
 }
 
 .pclass img {
@@ -90,26 +55,12 @@ table {
 .current {
   width: 100px;
   text-align: center;
+  color: white;
 }
 
 .class_text {
   display: none;
 }
-
-/*  Loot History */
-
-.item {
-  width: 180px;
-}
-
-.zone,
-.boss,
-.cost {
-  text-align: center;
-  width: 120px;
-  padding: 5px 0;
-}
-
 
 .entry:hover {
   background-color: rgba(66, 66, 66, 0.77);
