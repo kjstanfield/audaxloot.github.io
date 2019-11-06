@@ -1,5 +1,167 @@
 <loothistory>
     <lootentry>
+        <player>Zerazi</player>
+        <itemname>Giantstalker's Gloves</itemname>
+        <itemnumber>16852</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Shazzrah</boss>
+        <timestamp>1573012447</timestamp>
+        <cost>80</cost>
+    </lootentry>
+    <lootentry>
+        <player>Fauxmage</player>
+        <itemname>Sorcerous Dagger</itemname>
+        <itemnumber>18878</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Shazzrah</boss>
+        <timestamp>1573012383</timestamp>
+        <cost>60</cost>
+    </lootentry>
+    <lootentry>
+        <player>Mawta</player>
+        <itemname>Nightslayer Belt</itemname>
+        <itemnumber>16827</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Baron Geddon</boss>
+        <timestamp>1573011353</timestamp>
+        <cost>45</cost>
+    </lootentry>
+    <lootentry>
+        <player>Thewaterboi</player>
+        <itemname>Arcanist Mantle</itemname>
+        <itemnumber>16797</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Baron Geddon</boss>
+        <timestamp>1573010878</timestamp>
+        <cost>50</cost>
+    </lootentry>
+    <lootentry>
+        <player>Fizlr</player>
+        <itemname>Earthfury Bracers</itemname>
+        <itemnumber>16840</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Garr</boss>
+        <timestamp>1573010087</timestamp>
+        <cost>40</cost>
+    </lootentry>
+    <lootentry>
+        <player>Gus</player>
+        <itemname>Gutgore Ripper</itemname>
+        <itemnumber>17071</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Garr</boss>
+        <timestamp>1573009813</timestamp>
+        <cost>60</cost>
+    </lootentry>
+    <lootentry>
+        <player>Burjah</player>
+        <itemname>Earthfury Helmet</itemname>
+        <itemnumber>16842</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Garr</boss>
+        <timestamp>1573009763</timestamp>
+        <cost>55</cost>
+    </lootentry>
+    <lootentry>
+        <player>Afloc</player>
+        <itemname>Felheart Bracers</itemname>
+        <itemnumber>16804</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Gehennas</boss>
+        <timestamp>1573008912</timestamp>
+        <cost>40</cost>
+    </lootentry>
+    <lootentry>
+        <player>Altarboi</player>
+        <itemname>Gloves of Prophecy</itemname>
+        <itemnumber>16812</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Gehennas</boss>
+        <timestamp>1573008519</timestamp>
+        <cost>40</cost>
+    </lootentry>
+    <lootentry>
+        <player>Drude</player>
+        <itemname>Cenarion Bracers</itemname>
+        <itemnumber>16830</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Magmadar</boss>
+        <timestamp>1573008085</timestamp>
+        <cost>40</cost>
+    </lootentry>
+    <lootentry>
+        <player>Schadow</player>
+        <itemname>Earthshaker</itemname>
+        <itemnumber>17073</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Magmadar</boss>
+        <timestamp>1573007599</timestamp>
+        <cost>61</cost>
+    </lootentry>
+    <lootentry>
+        <player>Captnstabbin</player>
+        <itemname>Striker's Mark</itemname>
+        <itemnumber>17069</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Magmadar</boss>
+        <timestamp>1573007548</timestamp>
+        <cost>100</cost>
+    </lootentry>
+    <lootentry>
+        <player>Burjah</player>
+        <itemname>Earthfury Legguards</itemname>
+        <itemnumber>16843</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Magmadar</boss>
+        <timestamp>1573007488</timestamp>
+        <cost>50</cost>
+    </lootentry>
+    <lootentry>
+        <player>Burjah</player>
+        <itemname>Earthfury Boots</itemname>
+        <itemnumber>16837</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Lucifron</boss>
+        <timestamp>1573007045</timestamp>
+        <cost>40</cost>
+    </lootentry>
+    <lootentry>
+        <player>Afloc</player>
+        <itemname>Felheart Gloves</itemname>
+        <itemnumber>16805</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Lucifron</boss>
+        <timestamp>1573006982</timestamp>
+        <cost>40</cost>
+    </lootentry>
+    <lootentry>
+        <player>Fadda</player>
+        <itemname>Girdle of Prophecy</itemname>
+        <itemnumber>16817</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Onyxia</boss>
+        <timestamp>1573006231</timestamp>
+        <cost>40</cost>
+    </lootentry>
+    <lootentry>
+        <player>Kj</player>
+        <itemname>Head of Onyxia</itemname>
+        <itemnumber>18422</itemnumber>
+        <zone>Onyxia's Lair</zone>
+        <boss>Onyxia</boss>
+        <timestamp>1573004700</timestamp>
+        <cost>120</cost>
+    </lootentry>
+    <lootentry>
+        <player>Drlol</player>
+        <itemname>Halo of Transcendence</itemname>
+        <itemnumber>16921</itemnumber>
+        <zone>Onyxia's Lair</zone>
+        <boss>Onyxia</boss>
+        <timestamp>1573004511</timestamp>
+        <cost>100</cost>
+    </lootentry>
+    <lootentry>
         <player>Rosey</player>
         <itemname>Head of Onyxia</itemname>
         <itemnumber>18422</itemnumber>
