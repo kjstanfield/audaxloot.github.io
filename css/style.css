@@ -26,9 +26,27 @@ body {
   border-width: 2px;
 }
 
+/* Nav */
+#menu ul {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+#menu li {
+  display: inline;
+  background: red;
+  padding: 10px;
+  margin: 10px;
+  cursor: pointer;
+}
+
 /* MAIN DKP TABLE */
 #dkp_table{
-  display: none;
+  display: block;
 }
 
 .dclass img {
@@ -42,7 +60,7 @@ body {
 
 /* LOOTED ITEM TABLE */
 #loot_table{
-  display: block;
+  display: none;
 }
 
 

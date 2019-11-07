@@ -30,7 +30,6 @@ $.ajax({
   }
 })
 
-
 // LOOTED ITEM HISTORY
 $.ajax({
   url: 'https://audaxloot.github.io/xml/loot.xml',
@@ -62,7 +61,6 @@ $.ajax({
   }
 })
 
-
 // DKP HISTORY
 $.ajax({
   url: 'https://audaxloot.github.io/xml/history.xml',
@@ -89,4 +87,23 @@ $.ajax({
   error: function() {
     $('#history_table').text('Failed to load data!')
   }
+})
+
+// NAV
+$("#dkp_nav").click(function() {
+  $('#dkp_table').css("display", "block")
+  $("#loot_table").css("display", "none")
+  $("#history_table").css("display", "none")
+})
+
+$("#hist_nav").click(function() {
+  $('#dkp_table').css("display", "none")
+  $("#loot_table").css("display", "none")
+  $("#history_table").css("display", "block")
+})
+
+$("#loot_nav").click(function() {
+  $('#dkp_table').css("display", "none")
+  $("#loot_table").css("display", "block")
+  $("#history_table").css("display", "none")
 })
