@@ -1,13 +1,8 @@
 body {
-  background-image: url("../imgs/rag_background.jpg");
+  /* background-image: url("../imgs/rag_background.jpg");
   background-size: cover;
-  background-position: center;
+  background-position: center; */
   font-family: 'Roboto Condensed', sans-serif;
-}
-
-/* HIDING UNTIL BUILT */
-#menu{
-  display: none
 }
 
 #title{
@@ -31,55 +26,28 @@ body {
   border-width: 2px;
 }
 
-table {
-  margin: 0 auto;
+/* MAIN DKP TABLE */
+#dkp_table{
+  display: none;
 }
 
-.header{
-  color:white;
-  font-size: 1.2rem;
-  padding-bottom: 15px;
-}
-
-.player {
-  width: 200px;
-  color: white;
-}
-
-.pclass img {
+.dclass img {
   height: 24px;
   width: 24px;
 }
 
-.pclass,
-.current {
-  width: 100px;
-  text-align: center;
-  color: white;
-}
-
-.class_text {
+.dtext {
   display: none;
 }
 
-.entry:hover {
-  background-color: rgba(66, 66, 66, 0.77);
+/* LOOTED ITEM TABLE */
+#loot_table{
+  display: block;
 }
 
-@media all and (min-width: 700px) {
-  #container {
-    width: 65%;
-  }
-}
 
-@media all and (min-width: 1250px) {
-  #container {
-    width: 50%;
-  }
-}
 
-@media all and (min-width: 1600px) {
-  #container {
-    width: 40%;
-  }
+/* DKP HISTORY TABLE */
+#history_table{
+  display: none;
 }

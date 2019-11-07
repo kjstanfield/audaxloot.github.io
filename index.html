@@ -1,34 +1,63 @@
 <!DOCTYPE html>
 <html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>Audax DKP</title>
+    <link
+      href="https://fonts.googleapis.com/css?family=Roboto+Condensed:700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" type="text/css" href="css/normalize.css" />
+    <link rel="stylesheet" type="text/css" href="css/style.css" />
+    <script src="js/jquery-3.4.1.min.js"></script>
+    <script src="https://wow.zamimg.com/widgets/power.js"></script>
+  </head>
+  <body>
+    <div id="container">
+      <div id="header">
+        <div id="title">
+          Audax DKP
+        </div>
+        <div id="menu">
+          <ul>
+            <li>DKP Table</li>
+            <li>DKP History</li>
+            <li>Loot History</li>
+          </ul>
+        </div>
+      </div>
+      <div id="content">
+        <table id="dkp_table">
+          <tr>
+            <th class="header">Player</th>
+            <th class="header">Class</th>
+            <th class="header">Current</th>
+          </tr>
+        </table>
 
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  <title>Audax DKP</title>
-  <link href="https://fonts.googleapis.com/css?family=Roboto+Condensed:700&display=swap" rel="stylesheet">
-  <link rel="stylesheet" type="text/css" href="css/normalize.css">
-  <link rel="stylesheet" type="text/css" href="css/style.css">
-  <script src="js/jquery-3.4.1.min.js"></script>
-  <script src="js/sorttable.js"></script>
-</head>
-<body>
-  <div id="container">
-    <div id="header">
-      <div id="title">
-        Audax DKP
-      </div>
-      <div id="menu">
-        <ul>
-          <li>DKP Table</li>
-          <li>DKP History</li>
-          <li>Loot History</li>
-        </ul>
+        <table id="loot_table">
+          <tr>
+            <th class="header">Player</th>
+            <th class="header">Item</th>
+            <th class="header">Zone</th>
+            <th class="header">Boss</th>
+            <th class="header">Time</th>
+            <th class="header">Cost</th>
+          </tr>
+        </table>
+
+        <table id="history_table">
+          <tr>
+            <th class="header">Players</th>
+            <th class="header">DKP</th>
+            <th class="header">Time</th>
+            <th class="header">Reason</th>
+          </tr>
+        </table>
       </div>
     </div>
-    <div id="content">
-    </div>
-  </div>
-</body>
-<script src="js/script.js"></script>
+  </body>
+  <script src="js/script.js"></script>
 </html>
