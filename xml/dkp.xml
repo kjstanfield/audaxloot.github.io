@@ -2,8 +2,8 @@
     <dkpentry>
         <player>Afloc</player>
         <class>WARLOCK</class>
-        <dkp>71</dkp>
-        <lifetimegained>175</lifetimegained>
+        <dkp>61</dkp>
+        <lifetimegained>195</lifetimegained>
         <lifetimespent>-80</lifetimespent>
     </dkpentry>
     <dkpentry>
@@ -44,7 +44,7 @@
     <dkpentry>
         <player>Chibai</player>
         <class>ROGUE</class>
-        <dkp>61</dkp>
+        <dkp>41</dkp>
         <lifetimegained>75</lifetimegained>
         <lifetimespent>0</lifetimespent>
     </dkpentry>
@@ -79,7 +79,7 @@
     <dkpentry>
         <player>Existence</player>
         <class>MAGE</class>
-        <dkp>63</dkp>
+        <dkp>43</dkp>
         <lifetimegained>70</lifetimegained>
         <lifetimespent>0</lifetimespent>
     </dkpentry>
@@ -114,8 +114,8 @@
     <dkpentry>
         <player>Homps</player>
         <class>WARRIOR</class>
-        <dkp>61</dkp>
-        <lifetimegained>75</lifetimegained>
+        <dkp>41</dkp>
+        <lifetimegained>85</lifetimegained>
         <lifetimespent>0</lifetimespent>
     </dkpentry>
     <dkpentry>
@@ -142,7 +142,7 @@
     <dkpentry>
         <player>Kiryokuu</player>
         <class>SHAMAN</class>
-        <dkp>94</dkp>
+        <dkp>84</dkp>
         <lifetimegained>205</lifetimegained>
         <lifetimespent>0</lifetimespent>
     </dkpentry>
@@ -156,7 +156,7 @@
     <dkpentry>
         <player>Martinni</player>
         <class>ROGUE</class>
-        <dkp>50</dkp>
+        <dkp>30</dkp>
         <lifetimegained>55</lifetimegained>
         <lifetimespent>0</lifetimespent>
     </dkpentry>
@@ -170,8 +170,8 @@
     <dkpentry>
         <player>Nalawatts</player>
         <class>SHAMAN</class>
-        <dkp>-20</dkp>
-        <lifetimegained>30</lifetimegained>
+        <dkp>-30</dkp>
+        <lifetimegained>50</lifetimegained>
         <lifetimespent>0</lifetimespent>
     </dkpentry>
     <dkpentry>
@@ -184,15 +184,15 @@
     <dkpentry>
         <player>React</player>
         <class>MAGE</class>
-        <dkp>134</dkp>
-        <lifetimegained>155</lifetimegained>
+        <dkp>124</dkp>
+        <lifetimegained>175</lifetimegained>
         <lifetimespent>0</lifetimespent>
     </dkpentry>
     <dkpentry>
         <player>Robispro</player>
         <class>DRUID</class>
-        <dkp>30</dkp>
-        <lifetimegained>30</lifetimegained>
+        <dkp>20</dkp>
+        <lifetimegained>50</lifetimegained>
         <lifetimespent>0</lifetimespent>
     </dkpentry>
     <dkpentry>
@@ -212,7 +212,7 @@
     <dkpentry>
         <player>Serquls</player>
         <class>PRIEST</class>
-        <dkp>61</dkp>
+        <dkp>41</dkp>
         <lifetimegained>75</lifetimegained>
         <lifetimespent>0</lifetimespent>
     </dkpentry>

@@ -20,6 +20,7 @@ body {
 }
 
 #content{
+  width: 80%;
   margin: 0 auto;
 }
 
@@ -141,3 +142,23 @@ th {
   text-align: center;
 }
 
+@media only screen and (max-width: 970px)  {
+  #container{
+    width: 100%;
+  }
+
+  #loot_table {
+    font-size: .8rem;
+    width:100%;
+    margin: 0;
+  }
+
+  #content{
+    width: 100%;
+    margin: 0;
+  }
+
+  .litem{
+    text-align: center;
+  }
+}

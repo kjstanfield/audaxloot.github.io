@@ -38,7 +38,6 @@ $.ajax({
     
     var myTH = document.getElementsByTagName('th')[2];
     sorttable.innerSortFunction.apply(myTH, []);
-    console.log(myTH)
   },
   error: function() {
     $('#dkp_table').text('Failed to load data!');
