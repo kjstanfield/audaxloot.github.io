@@ -1,5 +1,68 @@
 <loothistory>
     <lootentry>
+        <player>Tosek</player>
+        <itemname>Azuresong Mageblade</itemname>
+        <itemnumber>17103</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Golemagg the Incinerator</boss>
+        <timestamp>1573181743</timestamp>
+        <cost>225</cost>
+    </lootentry>
+    <lootentry>
+        <player>Fadda</player>
+        <itemname>Robes of Prophecy</itemname>
+        <itemnumber>16815</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Golemagg the Incinerator</boss>
+        <timestamp>1573181661</timestamp>
+        <cost>55</cost>
+    </lootentry>
+    <lootentry>
+        <player>Rosey</player>
+        <itemname>Breastplate of Might</itemname>
+        <itemnumber>16865</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Golemagg the Incinerator</boss>
+        <timestamp>1573181560</timestamp>
+        <cost>55</cost>
+    </lootentry>
+    <lootentry>
+        <player>Valuuan</player>
+        <itemname>Pauldrons of Might</itemname>
+        <itemnumber>16868</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Sulfuron Harbinger</boss>
+        <timestamp>1573180210</timestamp>
+        <cost>50</cost>
+    </lootentry>
+    <lootentry>
+        <player>Drude</player>
+        <itemname>Stormrage Cover</itemname>
+        <itemnumber>16900</itemnumber>
+        <zone>Onyxia's Lair</zone>
+        <boss>Onyxia</boss>
+        <timestamp>1573175906</timestamp>
+        <cost>55</cost>
+    </lootentry>
+    <lootentry>
+        <player>Soblazed</player>
+        <itemname>Vis'kag the Bloodletter</itemname>
+        <itemnumber>17075</itemnumber>
+        <zone>Onyxia's Lair</zone>
+        <boss>Onyxia</boss>
+        <timestamp>1573175813</timestamp>
+        <cost>61</cost>
+    </lootentry>
+    <lootentry>
+        <player>Zerazi</player>
+        <itemname>Head of Onyxia</itemname>
+        <itemnumber>18422</itemnumber>
+        <zone>Onyxia's Lair</zone>
+        <boss>Onyxia</boss>
+        <timestamp>1573175734</timestamp>
+        <cost>100</cost>
+    </lootentry>
+    <lootentry>
         <player>Zerazi</player>
         <itemname>Giantstalker's Gloves</itemname>
         <itemnumber>16852</itemnumber>
