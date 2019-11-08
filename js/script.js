@@ -77,7 +77,6 @@ $.ajax({
       <tr class="history_entry">
         <td class="row hplayers">${hist_players}</td>
         <td class="row hdkp">${hist_dkp}</td>
-        <td class="row htime">${hist_time}</td>
         <td class="row hreason">${hist_reason}</td>
       </tr>`
 
@@ -91,19 +90,23 @@ $.ajax({
 
 // NAV
 $("#dkp_nav").click(function() {
-  $('#dkp_table').css("display", "block")
+  $('#dkp_table').css("display", "table")
   $("#loot_table").css("display", "none")
+  $("#history_table").css("display", "none")
+})
+
+$("#loot_nav").click(function() {
+  $('#dkp_table').css("display", "none")
+  $("#loot_table").css("display", "table")
   $("#history_table").css("display", "none")
 })
 
 $("#hist_nav").click(function() {
   $('#dkp_table').css("display", "none")
   $("#loot_table").css("display", "none")
-  $("#history_table").css("display", "block")
+  $("#history_table").css("display", "table")
 })
 
-$("#loot_nav").click(function() {
-  $('#dkp_table').css("display", "none")
-  $("#loot_table").css("display", "block")
-  $("#history_table").css("display", "none")
+$("#logs_nav").click(function() {
+  window.open('https://classic.warcraftlogs.com/guild/reports-list/488268/','_blank')
 })
