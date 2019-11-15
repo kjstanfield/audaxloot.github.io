@@ -68,9 +68,10 @@ th {
 
 /* MAIN DKP TABLE */
 #dkp_table{
+  font-size: 1.1rem;
   display: table;
   margin: 0 auto;
-  width: 30%;
+  width: 40%;
   text-align: center;
 }
 
@@ -80,7 +81,7 @@ th {
 }
 
 #dkp_table .row {
-  width: 30%;
+  width: 25%;
 }
 
 .dtext {
@@ -151,6 +152,10 @@ th {
     font-size: .8rem;
     width:100%;
     margin: 0;
+  }
+
+  #dkp_table {
+    width: 100%;
   }
 
   #content{

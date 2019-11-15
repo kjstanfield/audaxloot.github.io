@@ -1,5 +1,158 @@
 <loothistory>
     <lootentry>
+        <player>Ultranumb</player>
+        <itemname>Fireproof Cloak</itemname>
+        <itemnumber>18811</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Majordomo Executus</boss>
+        <timestamp>1573616698</timestamp>
+        <cost>25</cost>
+    </lootentry>
+    <lootentry>
+        <player>Zerazi</player>
+        <itemname>Ancient Petrified Leaf</itemname>
+        <itemnumber>18703</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Majordomo Executus</boss>
+        <timestamp>1573616642</timestamp>
+        <cost>50</cost>
+    </lootentry>
+    <lootentry>
+        <player>Schadow</player>
+        <itemname>Obsidian Edged Blade</itemname>
+        <itemnumber>18822</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Golemagg the Incinerator</boss>
+        <timestamp>1573616174</timestamp>
+        <cost>60</cost>
+    </lootentry>
+    <lootentry>
+        <player>Rosey</player>
+        <itemname>Bracers of Might</itemname>
+        <itemnumber>16861</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Sulfuron Harbinger</boss>
+        <timestamp>1573615731</timestamp>
+        <cost>40</cost>
+    </lootentry>
+    <lootentry>
+        <player>Altarboi</player>
+        <itemname>Mantle of Prophecy</itemname>
+        <itemnumber>16816</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Sulfuron Harbinger</boss>
+        <timestamp>1573615285</timestamp>
+        <cost>50</cost>
+    </lootentry>
+    <lootentry>
+        <player>Covalent</player>
+        <itemname>Pauldrons of Might</itemname>
+        <itemnumber>16868</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Sulfuron Harbinger</boss>
+        <timestamp>1573615205</timestamp>
+        <cost>50</cost>
+    </lootentry>
+    <lootentry>
+        <player>Drude</player>
+        <itemname>Cenarion Gloves</itemname>
+        <itemnumber>16831</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Shazzrah</boss>
+        <timestamp>1573613726</timestamp>
+        <cost>40</cost>
+    </lootentry>
+    <lootentry>
+        <player>Afloc</player>
+        <itemname>Felheart Slippers</itemname>
+        <itemnumber>16803</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Shazzrah</boss>
+        <timestamp>1573613649</timestamp>
+        <cost>41</cost>
+    </lootentry>
+    <lootentry>
+        <player>Elanta</player>
+        <itemname>Felheart Horns</itemname>
+        <itemnumber>16808</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Garr</boss>
+        <timestamp>1573610737</timestamp>
+        <cost>55</cost>
+    </lootentry>
+    <lootentry>
+        <player>Kiryokuu</player>
+        <itemname>Aurastone Hammer</itemname>
+        <itemnumber>17105</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Garr</boss>
+        <timestamp>1573610638</timestamp>
+        <cost>60</cost>
+    </lootentry>
+    <lootentry>
+        <player>Kiryokuu</player>
+        <itemname>Earthshaker</itemname>
+        <itemnumber>17073</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Gehennas</boss>
+        <timestamp>1573609741</timestamp>
+        <cost>30</cost>
+    </lootentry>
+    <lootentry>
+        <player>Winemonkey</player>
+        <itemname>Medallion of Steadfast Might</itemname>
+        <itemnumber>17065</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Gehennas</boss>
+        <timestamp>1573609685</timestamp>
+        <cost>30</cost>
+    </lootentry>
+    <lootentry>
+        <player>Winemonkey</player>
+        <itemname>Flamewaker Legplates</itemname>
+        <itemnumber>18861</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Gehennas</boss>
+        <timestamp>1573609626</timestamp>
+        <cost>25</cost>
+    </lootentry>
+    <lootentry>
+        <player>Covalent</player>
+        <itemname>Sabatons of Might</itemname>
+        <itemnumber>16862</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Gehennas</boss>
+        <timestamp>1573609509</timestamp>
+        <cost>40</cost>
+    </lootentry>
+    <lootentry>
+        <player>Kiryokuu</player>
+        <itemname>Earthfury Gauntlets</itemname>
+        <itemnumber>16839</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Gehennas</boss>
+        <timestamp>1573609441</timestamp>
+        <cost>40</cost>
+    </lootentry>
+    <lootentry>
+        <player>Charlie</player>
+        <itemname>Striker's Mark</itemname>
+        <itemnumber>17069</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Magmadar</boss>
+        <timestamp>1573608401</timestamp>
+        <cost>80</cost>
+    </lootentry>
+    <lootentry>
+        <player>Slenderjames</player>
+        <itemname>Arcanist Boots</itemname>
+        <itemnumber>16800</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Lucifron</boss>
+        <timestamp>1573607880</timestamp>
+        <cost>40</cost>
+    </lootentry>
+    <lootentry>
         <player>Tosek</player>
         <itemname>Azuresong Mageblade</itemname>
         <itemnumber>17103</itemnumber>
