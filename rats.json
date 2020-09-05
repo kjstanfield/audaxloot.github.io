@@ -1,46 +1,18 @@
-{
-  "rats": [
     {
-      "nickname": "Kj",
-      "name": "Kyle",
-      "warcraft": [
-        {
-          "server": "Tichondrius",
-          "character": "Magnetic"
-        },
-        {
-          "server": "Tichondrius",
-          "character": "Antìmatter"
-        }
-      ]
+      name: "Kj",
+      rname: "Kyle",
+      server: "Tichondrius",
+      character: "Magnetic",
     },
     {
-      "nickname": "Pizzasupper",
-      "name": "Todd",
-      "warcraft": [
-        {
-          "server": "Area 52",
-          "character": "Detresse"
-        },
-        {
-          "server": "Area 52",
-          "character": "Faceshopping"
-        }
-      ]
+      name: "Pizzasupper",
+      rname: "Todd",
+      server: "Area 52",
+      character: "Detresse",
     },
     {
-      "nickname": "Brain",
-      "name": "Brian",
-      "warcraft": [
-        {
-          "server": "Area 52",
-          "character": "IDK"
-        },
-        {
-          "server": "Area 52",
-          "character": "IDK2"
-        }
-      ]
+      name: "Brain",
+      rname: "Brian",
+      server: "Area 52",
+      character: "BigHamSpankr",
     }
-  ]
-}
