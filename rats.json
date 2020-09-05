@@ -27,6 +27,20 @@
           "character": "Faceshopping"
         }
       ]
+    },
+    {
+      "nickname": "Brain",
+      "name": "Brian",
+      "warcraft": [
+        {
+          "server": "Area 52",
+          "character": "IDK"
+        },
+        {
+          "server": "Area 52",
+          "character": "IDK2"
+        }
+      ]
     }
   ]
 }
