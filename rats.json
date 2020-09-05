@@ -1,10 +1,32 @@
 {
   "rats": [
     {
-      "nickname": "Kj"
+      "nickname": "Kj",
+      "name": "Kyle",
+      "warcraft": [
+        {
+          "server": "Tichondrius",
+          "character": "Magnetic"
+        },
+        {
+          "server": "Tichondrius",
+          "character": "Antìmatter"
+        }
+      ]
     },
     {
-      "nickname": "Pizzasupper"
+      "nickname": "Pizzasupper",
+      "name": "Todd",
+      "warcraft": [
+        {
+          "server": "Area 52",
+          "character": "Detresse"
+        },
+        {
+          "server": "Area 52",
+          "character": "Faceshopping"
+        }
+      ]
     }
   ]
 }
