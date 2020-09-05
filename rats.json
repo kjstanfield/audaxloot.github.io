@@ -3,40 +3,20 @@
     {
       "nickname": "Kj",
       "name": "Kyle",
-      "warcraft": [
-        {
-          "server": "Tichondrius",
-          "character": "Magnetic"
-        },
-        {
-          "server": "Tichondrius",
-          "character": "Antìmatter"
-        }
-      ]
+      "server": "Tichondrius",
+      "character": "Magnetic"
     },
     {
       "nickname": "Pizzasupper",
       "name": "Todd",
-      "warcraft": [
-        {
-          "server": "Area 52",
-          "character": "Detresse"
-        },
-        {
-          "server": "Area 52",
-          "character": "Faceshopping"
-        }
-      ]
+      "server": "Area 52",
+      "character": "Detresse"
     },
     {
       "nickname": "Brain",
       "name": "Brian",
-      "warcraft": [
-        {
-          "server": "Area 52",
-          "character": "Bighamspankr"
-        }
-      ]
+      "server": "Area 52",
+      "character": "Bighamspankr"
     }
   ]
 }
