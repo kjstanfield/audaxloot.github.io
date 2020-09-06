@@ -1,20 +1,20 @@
 {
   "rats": [
     {
-      "nickname": "Kj",
-      "name": "Kyle",
+      "name": "Kj",
+      "rname": "Kyle",
       "server": "Tichondrius",
       "character": "Magnetic"
     },
     {
-      "nickname": "Pizzasupper",
-      "name": "Todd",
+      "name": "Pizzasupper",
+      "rname": "Todd",
       "server": "Area 52",
       "character": "Detresse"
     },
     {
-      "nickname": "Brain",
-      "name": "Brian",
+      "name": "Brain",
+      "rname": "Brian",
       "server": "Area 52",
       "character": "Bighamspankr"
     }
