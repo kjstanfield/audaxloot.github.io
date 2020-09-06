@@ -4,18 +4,21 @@
       "name": "Kj",
       "rname": "Kyle",
       "server": "Tichondrius",
+      "slug": "tichondrius",
       "character": "Magnetic"
     },
     {
       "name": "Pizzasupper",
       "rname": "Todd",
       "server": "Area 52",
+      "slug": "area-52",
       "character": "Detresse"
     },
     {
       "name": "Brain",
       "rname": "Brian",
       "server": "Area 52",
+      "slug": "area-52",
       "character": "Bighamspankr"
     }
   ]
